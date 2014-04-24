@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>cake.png</file>
+        <file>hazard.png</file>
+        <file>path.png</file>
+        <file>ant.png</file>
+        <file>start.png</file>
+        <file>cursor.png</file>
+        <file>foundant.png</file>
+    </qresource>
+</RCC>
