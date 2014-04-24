@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_ant_world_tile.html" title="This class represents the sim&#39;s 2D world squares (tiles) and is designed to be independent of any spe..." alt="" coords="7,5,103,35"/>
+<area shape="rect" id="node3" href="$class_graphics_world_tile.html" title="This class inherits from AntWorldTile and is responsible for the graphical aspects of the tiles..." alt="" coords="153,5,281,35"/>
+</map>

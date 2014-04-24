@@ -1,13 +1,22 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$antpheromone_8h.html" title="antpheromone.h" alt="" coords="309,83,424,112"/>
-<area shape="rect" id="node5" href="$antbot_8h.html" title="antbot.h" alt="" coords="180,160,249,189"/>
-<area shape="rect" id="node13" href="$antworldtile_8h.html" title="antworldtile.h" alt="" coords="324,160,423,189"/>
-<area shape="rect" id="node27" href="$antgraph_8h.html" title="antgraph.h" alt="" coords="97,83,180,112"/>
-<area shape="rect" id="node32" href="$antposition_8cpp.html" title="antposition.cpp" alt="" coords="448,83,557,112"/>
-<area shape="rect" id="node9" href="$antpheromone_8cpp.html" title="antpheromone.cpp" alt="" coords="165,237,293,267"/>
-<area shape="rect" id="node11" href="$antworld_8cpp.html" title="antworld.cpp" alt="" coords="457,315,553,344"/>
-<area shape="rect" id="node16" href="$antworld_8h.html" title="antworld.h" alt="" coords="504,237,587,267"/>
-<area shape="rect" id="node7" href="$antbot_8cpp.html" title="antbot.cpp" alt="" coords="8,237,91,267"/>
-<area shape="rect" id="node20" href="$antworldtile_8cpp.html" title="antworldtile.cpp" alt="" coords="317,237,429,267"/>
-<area shape="rect" id="node30" href="$antgraph_8cpp.html" title="antgraph.cpp" alt="" coords="5,160,101,189"/>
+<area shape="rect" id="node3" href="$antpheromone_8h.html" title="antpheromone.h" alt="" coords="722,83,836,112"/>
+<area shape="rect" id="node5" href="$antbot_8h.html" title="antbot.h" alt="" coords="935,160,1004,189"/>
+<area shape="rect" id="node21" href="$antworldtile_8h.html" title="antworldtile.h" alt="" coords="730,160,828,189"/>
+<area shape="rect" id="node54" href="$antgraph_8h.html" title="antgraph.h" alt="" coords="1003,83,1086,112"/>
+<area shape="rect" id="node59" href="$antposition_8cpp.html" title="antposition.cpp" alt="" coords="1110,83,1219,112"/>
+<area shape="rect" id="node9" href="$antpheromone_8cpp.html" title="antpheromone.cpp" alt="" coords="883,237,1011,267"/>
+<area shape="rect" id="node11" href="$antworld_8cpp.html" title="antworld.cpp" alt="" coords="696,315,792,344"/>
+<area shape="rect" id="node24" href="$antworld_8h.html" title="antworld.h" alt="" coords="539,237,622,267"/>
+<area shape="rect" id="node46" href="$graphicspheromoneitem_8h.html" title="graphicspheromoneitem.h" alt="" coords="111,237,282,267"/>
+<area shape="rect" id="node7" href="$antbot_8cpp.html" title="antbot.cpp" alt="" coords="1035,237,1118,267"/>
+<area shape="rect" id="node13" href="$graphicsantitem_8h.html" title="graphicsantitem.h" alt="" coords="816,315,942,344"/>
+<area shape="rect" id="node15" href="$antsimmainwindow_8cpp.html" title="antsimmainwindow.cpp" alt="" coords="662,392,819,421"/>
+<area shape="rect" id="node17" href="$antworldscene_8cpp.html" title="antworldscene.cpp" alt="" coords="344,392,475,421"/>
+<area shape="rect" id="node19" href="$graphicsantitem_8cpp.html" title="graphicsantitem.cpp" alt="" coords="499,392,638,421"/>
+<area shape="rect" id="node34" href="$antworldtile_8cpp.html" title="antworldtile.cpp" alt="" coords="747,237,859,267"/>
+<area shape="rect" id="node36" href="$graphicsworldtile_8h.html" title="graphicsworldtile.h" alt="" coords="384,237,515,267"/>
+<area shape="rect" id="node27" href="$antworldscene_8h.html" title="antworldscene.h" alt="" coords="504,315,622,344"/>
+<area shape="rect" id="node41" href="$graphicsworldtile_8cpp.html" title="graphicsworldtile.cpp" alt="" coords="235,315,379,344"/>
+<area shape="rect" id="node49" href="$graphicspheromoneitem_8cpp.html" title="graphicspheromoneitem.cpp" alt="" coords="27,315,211,344"/>
+<area shape="rect" id="node57" href="$antgraph_8cpp.html" title="antgraph.cpp" alt="" coords="1082,160,1178,189"/>
 </map>

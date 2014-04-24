@@ -1,3 +1,7 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$antworld_8cpp.html" title="antworld.cpp" alt="" coords="5,83,101,112"/>
+<area shape="rect" id="node5" href="$antworldscene_8h.html" title="antworldscene.h" alt="" coords="193,83,311,112"/>
+<area shape="rect" id="node7" href="$antsimmainwindow_8cpp.html" title="antsimmainwindow.cpp" alt="" coords="41,160,199,189"/>
+<area shape="rect" id="node9" href="$antworldscene_8cpp.html" title="antworldscene.cpp" alt="" coords="223,160,353,189"/>
+<area shape="rect" id="node11" href="$graphicsantitem_8cpp.html" title="graphicsantitem.cpp" alt="" coords="377,160,516,189"/>
 </map>

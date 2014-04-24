@@ -1,6 +1,12 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$antbot_8cpp.html" title="antbot.cpp" alt="" coords="5,83,88,112"/>
-<area shape="rect" id="node5" href="$antworld_8h.html" title="antworld.h" alt="" coords="112,83,195,112"/>
-<area shape="rect" id="node7" href="$antworld_8cpp.html" title="antworld.cpp" alt="" coords="144,160,240,189"/>
-<area shape="rect" id="node10" href="$antworldtile_8cpp.html" title="antworldtile.cpp" alt="" coords="269,83,381,112"/>
+<area shape="rect" id="node5" href="$antworld_8h.html" title="antworld.h" alt="" coords="163,83,245,112"/>
+<area shape="rect" id="node7" href="$antworld_8cpp.html" title="antworld.cpp" alt="" coords="55,160,151,189"/>
+<area shape="rect" id="node19" href="$antworldtile_8cpp.html" title="antworldtile.cpp" alt="" coords="439,83,551,112"/>
+<area shape="rect" id="node21" href="$graphicsworldtile_8h.html" title="graphicsworldtile.h" alt="" coords="284,83,415,112"/>
+<area shape="rect" id="node9" href="$antworldscene_8h.html" title="antworldscene.h" alt="" coords="225,160,343,189"/>
+<area shape="rect" id="node11" href="$antsimmainwindow_8cpp.html" title="antsimmainwindow.cpp" alt="" coords="73,237,231,267"/>
+<area shape="rect" id="node13" href="$antworldscene_8cpp.html" title="antworldscene.cpp" alt="" coords="255,237,385,267"/>
+<area shape="rect" id="node15" href="$graphicsantitem_8cpp.html" title="graphicsantitem.cpp" alt="" coords="409,237,548,267"/>
+<area shape="rect" id="node26" href="$graphicsworldtile_8cpp.html" title="graphicsworldtile.cpp" alt="" coords="468,160,612,189"/>
 </map>

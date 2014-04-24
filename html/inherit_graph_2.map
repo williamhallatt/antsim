@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_ant_pheromone.html" title="This class represents the ant pheromones AntBots use to communicate with each other via the process o..." alt="" coords="7,5,113,35"/>
+<area shape="rect" id="node3" href="$class_graphics_pheromone_item.html" title="This class inherits from AntPheromone and is responsible for the graphical aspects of the pheromones..." alt="" coords="164,5,329,35"/>
+</map>

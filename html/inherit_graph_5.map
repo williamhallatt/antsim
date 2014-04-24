@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_ant_world.html" title="An abstract base class representing the sim world that is responsible for the creation and maintenanc..." alt="" coords="7,5,81,35"/>
+<area shape="rect" id="node3" href="$class_graphics_ant_world_scene.html" title="AntWorldScene is responsible for the world&#39;s graphical representation." alt="" coords="131,5,296,35"/>
+</map>

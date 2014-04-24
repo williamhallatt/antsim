@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_ant_bot.html" title="An abstract base class responsible for all logic related to individual ant bots and designed to be in..." alt="" coords="7,5,68,35"/>
+<area shape="rect" id="node3" href="$class_graphics_ant_item.html" title="This class inherits from AntBot and is responsible for the graphical aspects of the ants..." alt="" coords="117,5,237,35"/>
+</map>
