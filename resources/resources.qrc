@@ -7,5 +7,6 @@
         <file>start.png</file>
         <file>cursor.png</file>
         <file>foundant.png</file>
+        <file>wall.png</file>
     </qresource>
 </RCC>

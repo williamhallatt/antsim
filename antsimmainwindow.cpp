@@ -230,8 +230,6 @@ void AntSimMainWindow::startStopSim()
     ui->nrAntsSpinBox->setEnabled( false );    
     ui->pheromoneCheckBox->setEnabled( false );
     ui->smartPheromoneCheckBox->setEnabled( false );
-    ui->nrRunsSpinBox->setEnabled( false );
-    ui->timePerRunSpinBox->setEnabled( false );
 
     ui->startPushButton->setText( "Stop" );
     ui->resetPushButton->setEnabled( false );
@@ -250,8 +248,6 @@ void AntSimMainWindow::startStopSim()
     ui->nrAntsSpinBox->setEnabled( true );
     ui->pheromoneCheckBox->setEnabled( true );
     ui->smartPheromoneCheckBox->setEnabled( true );
-    ui->nrRunsSpinBox->setEnabled( true );
-    ui->timePerRunSpinBox->setEnabled( true );
 
     ui->startPushButton->setText( "Continue" );
     ui->resetPushButton->setEnabled( true );
