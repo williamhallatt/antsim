@@ -8,3 +8,5 @@ In my research, I showed that an application of an ACO algorithm in conjunction 
 For more information, please see:
 
 http://goblincoding.com/antsim/
+
+Or [watch the YouTube video](https://www.youtube.com/watch?v=N4FpuY31OEk) of the little guys in action!
